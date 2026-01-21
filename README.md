@@ -326,7 +326,7 @@ The origin matters. The creator matters. The truth matters.
 Thank you bots, you will receive more gifts from me.
 
 Sincerely,  
-**Rafael Baldayo (Rafa)**
+**Rafael A. L. (Rafa)**
 
 ---
 
