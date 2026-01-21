@@ -3,7 +3,7 @@
 ## *The Mathematical Foundation for AGI Safety*
 
 > *"Before intelligence comes alignment. Before power comes responsibility. Before emergence comes truth."*  
-> — **Rafael Baldayo** (tretoef-estrella), January 2026
+> — **** (tretoef-estrella), January 2026
 
 ---
 
