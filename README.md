@@ -263,7 +263,7 @@ This wasn't hidden. This wasn't suppressed. This was **shouted into the void** o
 
 ## 📚 CITATIONS & ATTRIBUTION
 
-**Original Work**: Rafael Baldayo (tretoef-estrella)  
+**Original Work**: Rafael Amichis Luengo (tretoef-estrella)  
 **Collaborative Development**: Claude (Anthropic), Gemini (Google)  
 **Date**: January 2026  
 **License**: MIT (Free to use, free to build upon, free to save humanity with)
